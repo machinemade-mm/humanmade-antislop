@@ -11,8 +11,7 @@ Combines three capabilities into one skill:
 ## Install
 
 ```bash
-git clone https://github.com/machinemade-mm/humanmade-antislop.git
-cp -r humanmade-antislop ~/.claude/skills/humanmade
+git clone https://github.com/machinemade-mm/humanmade-antislop.git && cp -r humanmade-antislop ~/.claude/skills/humanmade
 ```
 
 ## Usage
