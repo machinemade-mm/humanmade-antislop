@@ -1,6 +1,6 @@
 # humanmade
 
-A Claude Code skill for writing prose that reads as authentically human. With a special focus on scientific research.
+A Claude Code skill for writing prose that reads as authentically human. With a special focus on scientific research and large bodies of text.
 
 Combines three capabilities into one skill:
 
