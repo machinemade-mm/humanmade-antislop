@@ -24,6 +24,18 @@ In Claude Code:
 
 Then write normally. The skill applies human-voice rules to all output and activates scientific writing and critical thinking layers when relevant.
 
+To create a LaTeX report from an existing document:
+
+```
+/humanmade create a report for ./my-research.tex
+```
+
+To write something from scratch:
+
+```
+/humanmade write a literature review on transformer architectures
+```
+
 ## Credits
 
 This is an original work that distills and consolidates insights from multiple sources into a new, unified skill. Inspirations and source material include:
