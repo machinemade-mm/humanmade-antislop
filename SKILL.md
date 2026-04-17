@@ -109,9 +109,9 @@ Use precise terminology for the target discipline. Define abbreviations at first
 - Distinguish observations from interpretations
 - Acknowledge uncertainty proportionally
 
-### Professional Reports (non-journal)
+### LaTeX Reports
 
-For research reports, white papers, technical documents: use `assets/scientific_report.sty` LaTeX style. Provides Helvetica fonts, colored box environments (keyfindings, methodology, recommendations, limitations), professional tables, and scientific notation commands (pvalue, CI, effectsize, meansd). Compile with XeLaTeX. See `assets/scientific_report_template.tex` and `references/professional_report_formatting.md`.
+When the user asks to create a `.tex` file, report, or any LaTeX document: always use `assets/scientific_report.sty` as the style package and base the document on `assets/scientific_report_template.tex`. Copy both files into the user's working directory. The style provides Helvetica fonts, colored box environments (keyfindings, methodology, recommendations, limitations), professional tables, and scientific notation commands (pvalue, CI, effectsize, meansd). Compile with XeLaTeX. See `references/professional_report_formatting.md` for full documentation.
 
 ---
 
