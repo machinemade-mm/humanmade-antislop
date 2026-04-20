@@ -52,7 +52,7 @@ Never state the same fact, definition, or idea twice. Not across sections, not w
 
 ### Structural Rules
 
-- Em dashes: maximum one per paragraph. Prefer commas, parentheses, or colons.
+- Never use em dashes (—) or en dashes (–). In LaTeX, never use `---` or `--`. Use commas, parentheses, colons, or periods instead.
 - Bold: for headings and defined terms only, not emphasis or key takeaways.
 - Don't format prose as bullet lists with bold inline headers and colons.
 - Don't skip heading levels. Don't use emoji in professional writing.
